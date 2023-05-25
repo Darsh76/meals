@@ -68,7 +68,7 @@ const dummyMeals = [
     affordability: Affordability.affordable,
     complexity: Complexity.simple,
     imageUrl:
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg/800px-Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg',
+        'https://img.freepik.com/free-photo/thai-food-som-tum-papaya-salad_1150-38086.jpg?w=1060&t=st=1684999052~exp=1684999652~hmac=a7b3c7a16f529cc27519e9234e8170681c972a83ccea2a7e7abbf7b12ba54024',
     duration: 20,
     ingredients: [
       '4 Tomatoes',
@@ -101,7 +101,7 @@ const dummyMeals = [
     affordability: Affordability.affordable,
     complexity: Complexity.simple,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2018/07/11/21/51/toast-3532016_1280.jpg',
+        'https://img.freepik.com/free-photo/tasty-sandwiches-with-green-salad-tomatoes-along-with-green-bell-pepper-bread-lemon-blue_140725-30119.jpg?w=1060&t=st=1684998190~exp=1684998790~hmac=28239f8319c7f6012ed4788a8fd2df1a5f16c6feff0200cda69cbb044a2e5995',
     duration: 10,
     ingredients: [
       '1 Slice White Bread',
@@ -130,7 +130,7 @@ const dummyMeals = [
     affordability: Affordability.pricey,
     complexity: Complexity.simple,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2014/10/23/18/05/burger-500054_1280.jpg',
+        'https://img.freepik.com/free-photo/big-sandwich-hamburger-with-juicy-beef-burger-cheese-tomato-red-onion-wooden-table_2829-19631.jpg?w=996&t=st=1684999143~exp=1684999743~hmac=af552c72a74cf93c6a38f136f122766a7ffc055704d1c202f03a81e6501d1e57',
     duration: 45,
     ingredients: [
       '300g Cattle Hack',
@@ -161,7 +161,7 @@ const dummyMeals = [
     affordability: Affordability.luxurious,
     complexity: Complexity.challenging,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2018/03/31/19/29/schnitzel-3279045_1280.jpg',
+        'https://img.freepik.com/free-photo/wiener-schnitzel-with-fried-potatoes-black-background_123827-22832.jpg?w=1060&t=st=1684998393~exp=1684998993~hmac=06fbc74ba9ff82ca021b50969d0f7ceb116bf3fb7d50c11d80e4e70dc7f4a441',
     duration: 60,
     ingredients: [
       '8 Veal Cutlets',
@@ -198,7 +198,7 @@ const dummyMeals = [
     affordability: Affordability.luxurious,
     complexity: Complexity.simple,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2016/10/25/13/29/smoked-salmon-salad-1768890_1280.jpg',
+        'https://img.freepik.com/free-photo/salmon-avocado-salad-wooden-table_123827-20272.jpg?w=1060&t=st=1684998444~exp=1684999044~hmac=e911ba71594d8363a0160ce38dbbeaf8e61e6197bcc36a5ae4d634b482b68cab',
     duration: 15,
     ingredients: [
       'Arugula',
@@ -233,7 +233,7 @@ const dummyMeals = [
     affordability: Affordability.affordable,
     complexity: Complexity.hard,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2017/05/01/05/18/pastry-2274750_1280.jpg',
+        'https://img.freepik.com/free-photo/delicious-thai-food-still-life_23-2149508923.jpg?w=1060&t=st=1684998540~exp=1684999140~hmac=2a61bf3e51a8c8213a5c985151f99050bfc4a1efa15a153c400c9f668fb1bb23',
     duration: 240,
     ingredients: [
       '4 Sheets of Gelatine',
@@ -268,7 +268,7 @@ const dummyMeals = [
     affordability: Affordability.affordable,
     complexity: Complexity.simple,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2018/07/10/21/23/pancake-3529653_1280.jpg',
+        'https://img.freepik.com/free-photo/front-view-sweet-pancakes-tower-arrangement_23-2148654085.jpg?w=996&t=st=1684998645~exp=1684999245~hmac=42a1e0b8c39ea884be5670b8bdd954cf060730f2c364b9315cef0af1730c3055',
     duration: 20,
     ingredients: [
       '1 1/2 Cups all-purpose Flour',
@@ -299,7 +299,7 @@ const dummyMeals = [
     affordability: Affordability.pricey,
     complexity: Complexity.challenging,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2018/06/18/16/05/indian-food-3482749_1280.jpg',
+        'https://img.freepik.com/free-photo/chicken-red-curry-black-cup_1150-23916.jpg?w=1060&t=st=1684998682~exp=1684999282~hmac=a2cd29270fdd4c5b0698b44dce0ea56b6715084c35bc2ef2f9ea1206bd582bb3',
     duration: 35,
     ingredients: [
       '4 Chicken Breasts',
@@ -332,7 +332,7 @@ const dummyMeals = [
     affordability: Affordability.affordable,
     complexity: Complexity.hard,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2014/08/07/21/07/souffle-412785_1280.jpg',
+        'https://img.freepik.com/free-photo/closeup-shot-chocolate-cake-wooden-table_181624-29011.jpg?w=1060&t=st=1684998775~exp=1684999375~hmac=e8a3c93a274b23009c4351a0ac35258d6586802f7207c7ff27ce0cabcab24e8b',
     duration: 45,
     ingredients: [
       '1 Teaspoon melted Butter',
@@ -383,7 +383,7 @@ const dummyMeals = [
     affordability: Affordability.luxurious,
     complexity: Complexity.simple,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2018/04/09/18/26/asparagus-3304997_1280.jpg',
+        'https://img.freepik.com/free-photo/salad-chickpeas-tomatoes-cucumbers-radish-greens-dietary-food-buddha-bowl-vegan-salad_2829-6796.jpg?w=1060&t=st=1684998840~exp=1684999440~hmac=db83fd2c63e9e9ab4d9edf160488590be435569a8e9252b66b752429cc19e266',
     duration: 30,
     ingredients: [
       'White and Green Asparagus',
